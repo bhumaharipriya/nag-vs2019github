@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nag-vs2019github", "nag-vs2019github\nag-vs2019github.csproj", "{44C2C0E5-0A3A-42E5-A9CF-AEEC889C8C63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44C2C0E5-0A3A-42E5-A9CF-AEEC889C8C63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44C2C0E5-0A3A-42E5-A9CF-AEEC889C8C63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44C2C0E5-0A3A-42E5-A9CF-AEEC889C8C63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44C2C0E5-0A3A-42E5-A9CF-AEEC889C8C63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6A493C8-C072-44E2-82E8-B4AD91298DF8}
+	EndGlobalSection
+EndGlobal
