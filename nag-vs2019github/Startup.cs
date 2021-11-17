@@ -33,6 +33,7 @@ namespace nag_vs2019github
                 endpoints.MapGet("/", async context =>
                 {
                     await context.Response.WriteAsync("Hello World!");
+                    await context.Response.WriteAsync("Hell0 India");
                 });
             });
         }
